@@ -1,7 +1,9 @@
 // TODO: write code here
+console.log('ololo');
 
-// comment this to pass build
-const unusedVariable = 'variable';
+const a = undefined;
+
+console.log(a.ololo);
 
 // for demonstration purpose only
 export default function demo(value) {
